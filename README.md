@@ -1,4 +1,4 @@
-# Pandas- <img height="50" src="https://files.cdn.thinkific.com/file_uploads/118220/images/678/084/64c/1__oSOImPmBFeKj8vqE4FCkQ.jpeg">
+# Pandas <img height="80" src="https://files.cdn.thinkific.com/file_uploads/118220/images/678/084/64c/1__oSOImPmBFeKj8vqE4FCkQ.jpeg">
 
 All about the pandas library in data science
 
